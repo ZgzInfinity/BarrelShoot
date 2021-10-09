@@ -5,7 +5,7 @@
   <h3 align="center">Barrel shoot</h3>
 
   <p align="center">
-    <b>A simple version of a First Person Shooter Game</b><br>
+    <b>A simple version of a First Person Shooter game</b><br>
   </p>
 </p>
 
